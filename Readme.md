@@ -24,15 +24,16 @@ nginx
 Copy
 Edit
 Enter target IP (e.g. 127.0.0.1): 
-📦 Requirements
+
+## 📦 Requirements
 Python 3.x (no external libraries)
 
 Works cross-platform
 
-⚠️ Legal Use Only
+## ⚠️ Legal Use Only
 Please only scan IPs you own or have explicit permission to scan. Unauthorized scanning can be illegal.
 
-💡 Future Ideas
+## 💡 Future Ideas
 Add service banner grabbing
 
 Export results to CSV
